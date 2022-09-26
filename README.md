@@ -1,2 +1,2 @@
 # cv
-Pesronal Cite
+Personal Cite
