@@ -1,16 +1,20 @@
+/******************************** TAG SELECTOR ********************************/
+
 body {
-    background-color: #DFF6FF;
+    background-color: #F5F5F5;
     font-family: 'Tahoma';
-    color: #06283D;
+    color: #525252;
 }
 
 h1 {
-    color: #06283D;
+    color: #1976D2;
     font-family: 'Tahoma';
+    font-size: 50px;
+
 }
 
 h3 {
-    color: #256D85;
+    color: #1976D2;
     font-family: 'Tahoma';
 }
 
@@ -19,8 +23,41 @@ hr{
     border-top-style: dotted;
     height: none;
     border-width: 10px;
-    border-color: #256D85;
+    border-color: #CCCCCC;
     width: 5%
 }
 
+/******************************** CLASS ********************************/
 
+.img{
+    opacity: 80%;
+}
+
+.link{
+    font-weight: bold;
+    color:#25A244;
+    text-decoration: none;
+}
+
+/******************************** PSAUDO CLASS ********************************/
+
+.img:hover{
+    opacity: 100%;
+}
+
+.link:hover{
+    color: #6EDE8A;
+}
+
+.text:hover{
+    color: #A3A3A3
+}
+
+.header:hover{
+    color: #42A5F5;
+}
+
+.skill:hover{
+    color: #185ADC;
+    font-weight: bold;
+}
