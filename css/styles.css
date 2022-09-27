@@ -1,0 +1,26 @@
+body {
+    background-color: #DFF6FF;
+    font-family: 'Tahoma';
+    color: #06283D;
+}
+
+h1 {
+    color: #06283D;
+    font-family: 'Tahoma';
+}
+
+h3 {
+    color: #256D85;
+    font-family: 'Tahoma';
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    height: none;
+    border-width: 10px;
+    border-color: #256D85;
+    width: 5%
+}
+
+
